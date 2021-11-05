@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leonardo, I live in Brazil (SP)
-- 📚 Studying at UNAERP to be a Software Engineer
+- 📚 Studying Software Engineering at UNAERP
 - 👀 Interested in learning new programming languages and skills
 - 🌱 Currently studying JavaScript, PHP and SQL
 - 📫 How to reach me: leonardo.wyu@gmail.com
